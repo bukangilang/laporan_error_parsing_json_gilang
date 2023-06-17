@@ -1,0 +1,7 @@
+{
+    "mulai":"Perintah sedang berlangsung", 
+    "data":16, 
+    "running":"Lampu menyala bergantian", 
+    "flipflop":"Lampu menyala bersamaan", 
+    "off":"Lampu LED mati"
+}
